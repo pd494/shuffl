@@ -1,4 +1,4 @@
-Shuffl (Startup)
+Shuffl 
 Goal:
 - The main aspect of this app is that it shuffles all the cards and gives the users two cards each
 - App that takes out the need for physical poker hands (cards)
